@@ -25,6 +25,6 @@ reference：[Kami-code/ICS-2020-Notes](https://github.com/Kami-code/ICS-2020-Not
 - [x] I/O
 - [ ] 网络编程
 - [x] 并发编程
-- [ ] lock
+- [x] lock
 - [x] Schedule调度
 
